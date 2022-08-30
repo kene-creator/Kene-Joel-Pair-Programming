@@ -1,5 +1,3 @@
-# Kene-Joel-Pair-Programming
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
@@ -34,10 +32,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@kene-creator](https://github.com/kene-creator)
 - Twitter: [@kay_yung1](https://twitter.com/kay_yung1)
 - LinkedIn: [Kenechuwku Agagwu](https://linkedin.com/in/kenechukwuagagwu)
-
-👤 **Author2**
-
-- GitHub: [@Joel-100](https://github.com/Joel-100)
 
 ## 🤝 Contributing
 
